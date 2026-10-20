@@ -36,7 +36,7 @@ const projects = [
       'A responsive website created for a bakery, designed to present the business, products and services in a simple and welcoming way.',
     image: tusamImage,
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: '#',
+    link: 'https://bakery-website-lemon.vercel.app/',
   },
   {
     title: 'SamStore',
